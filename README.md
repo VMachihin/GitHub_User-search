@@ -4,7 +4,7 @@
 
 ## [Ссылка на проект](git-hub-user-search-virid.vercel.app)
 
-![This is an alt text.](/igh-search.png "This is a sample image.")
+![](/gh-search.png)
 
 ## Технологии
 
