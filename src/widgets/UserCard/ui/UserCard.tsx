@@ -1,4 +1,4 @@
-import { LocalGitHubUser } from "types";
+import { LocalGitHubUser } from "app/types/user";
 import { UserInfo } from "widgets/UserInfo";
 import { UserStat } from "widgets/UserStat";
 import { UserTitle } from "widgets/UserTitle";
