@@ -2,7 +2,7 @@
 
 ### Приложение для поиска пользователей на GitHub.
 
-## [Ссылка на проект](git-hub-user-search-virid.vercel.app)
+## [Ссылка на проект](https://git-hub-user-search-virid.vercel.app)
 
 ![](/gh-search.png)
 
